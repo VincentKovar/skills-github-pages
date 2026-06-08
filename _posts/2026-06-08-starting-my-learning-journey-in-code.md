@@ -2,7 +2,7 @@
 title: "Starting My Learning Journey in Code"
 date: 2026-06-08
 ---
-
+ 
 # Beginning Three Parallel Learning Paths
 
 Today marks the start of my journey into programming and development. I am taking on three interconnected courses that build different but complementary skills. This blog will document my progress, insights, and breakthroughs as I learn.
