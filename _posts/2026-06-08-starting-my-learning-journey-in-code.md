@@ -1,5 +1,5 @@
 ---
-title: Starting-My-Learning-Journey-in-Code
+title: "Starting-My-Learning-Journey-in-Code"
 date: 2026-06-08
 ---
  
